@@ -1,0 +1,12 @@
+# --- Docker / runtime artifacts ---
+docker/mysql/data/
+docker/mysql/data/**
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# (optional) logs / temp
+*.log
